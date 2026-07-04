@@ -1,2 +1,20 @@
-# gracia-frontend-assignment
-Pixel-perfect React implementation of the FinBowl UI assignment with responsive design and reusable components.
+# Gracia Frontend Assignment
+
+## Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
+
+## Features
+- Pixel-perfect UI
+- Responsive Design
+- Reusable Components
+- Loading State
+- Error State
+
+## Run Project
+
+npm install
+
+npm run dev
